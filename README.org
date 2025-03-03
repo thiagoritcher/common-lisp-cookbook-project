@@ -1,0 +1,9 @@
+* My-Project 
+
+** Usage
+
+sh run
+
+** Installation
+
+sudo apt install sbcl cl-quicklist
