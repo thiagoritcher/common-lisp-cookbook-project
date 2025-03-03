@@ -1,19 +1,20 @@
-# My-Project
+# common-lisp-cookbook-project
 
 Basic common lisp projects
-Followint setup from Common Lisp Cookbook
+
+Following setup from Common Lisp Cookbook
 
 ## Usage
 
 Run with
 
-   sh run
+    sh run
 
 ## Installation
 
 Install project dependencies
 
-   sudo apt install sbcl cl-quicklist
+    sudo apt install sbcl cl-quicklist
 
 Project should download dependencies on
 first use
